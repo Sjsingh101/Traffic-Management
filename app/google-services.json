@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "337532368012",
+    "firebase_url": "https://traffic-management-101.firebaseio.com",
+    "project_id": "traffic-management-101",
+    "storage_bucket": "traffic-management-101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337532368012:android:4884ff5599e57623a537a9",
+        "android_client_info": {
+          "package_name": "com.sjsingh101.trafficmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337532368012-suppgd60dkvl26kheq9imk54fpd9q9qh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sjsingh101.trafficmanagement",
+            "certificate_hash": "44f1d683f7c3861ad176eaa0e459b5fd3b43da7d"
+          }
+        },
+        {
+          "client_id": "337532368012-t5c005a0isb9dpt35hf7irdbbes4oag7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNl7he61SDSKBHZbQ01X4GtYnP3vYgkBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337532368012-t5c005a0isb9dpt35hf7irdbbes4oag7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
